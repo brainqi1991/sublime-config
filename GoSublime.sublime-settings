@@ -1,0 +1,4 @@
+{
+	"env": {"GOPATH": "$GOPATH"},
+	"fmt_tab_width": 4
+}
